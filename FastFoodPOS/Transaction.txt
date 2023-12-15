@@ -1,0 +1,5 @@
+Transaction File
+==========================
+Transaction ID:  20231212006
+Cashier Id:  7
+Cash:  150
